@@ -1,5 +1,3 @@
-// substring_matching.go
-//go get github.com/grokify/html-strip-tags-go
 package parser
 
 import (
