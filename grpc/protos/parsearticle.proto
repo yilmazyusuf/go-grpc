@@ -1,0 +1,13 @@
+syntax = "proto3";
+package protos;
+service ParseArticle {
+  rpc ParseUrl (ParseRequest) returns (ParseResponse) {}
+}
+message ParseRequest {
+  string url = 1;
+}
+message ParseResponse {
+  string title = 1;
+  string article = 2;
+  string server_message = 3;
+}
