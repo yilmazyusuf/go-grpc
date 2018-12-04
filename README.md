@@ -2,6 +2,9 @@
 
 Go ile basit bir grpc sunucu istemci ayağa kaldırıp bir web sayfasını parse edeceğiz
 
+DEMO
+http://37.139.16.180:8080/read_article/?url=https://medium.com/@yusufylmaz_3450/stateful-stateless-68cfae55653d
+
 
 Go Kurulum
 
