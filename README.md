@@ -1,6 +1,6 @@
 # GO - GRPC
 
-Go ile basit bir grpc sunucu istemci ayağa kaldırıp bir web sayfasının parse edeceğiz
+Go ile basit bir grpc sunucu istemci ayağa kaldırıp bir web sayfasını parse edeceğiz
 
 
 Go Kurulum
